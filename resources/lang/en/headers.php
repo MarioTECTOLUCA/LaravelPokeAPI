@@ -1,0 +1,17 @@
+<?php
+
+return [
+    'POKEDEX' => 'Pokedex',
+    'SAVEDPOKEMONS' => 'Pokemones Guardados',
+    'BTNPOKEDEX' => 'Mostrar Pokemón',
+    'LABELNAMEPOKEDEX' => 'NOMBRE:',
+    'HEADERATABLEID' => '#',
+    'HEADERATABLENAME' => 'NOMBRE',
+    'HEADERATABLEEXPERIENCE' => 'BASE EXPERIENCE',
+    'HEADERATABLEWEIGHT' => 'WEIGTH',
+    'HEADERATABLEHEIGHT' => 'HEIGTH',
+    'HEADERATABLEBACKDEFAULT' => 'BACK DEFAULT',
+    'HEADERATABLEBACKSHINY' => 'BACK SHINY',
+    
+
+];
